@@ -1,6 +1,6 @@
 <p align="center">
   <img
-    src="./yo.png"
+    src=".yo.png"
     alt="OUTFRAME STUDIO - dy"
     width="100%"
   />
